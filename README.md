@@ -11,7 +11,7 @@
   <br/>
   <br/>
 
-  <h1><b>Bookstore</b></h1>
+  <h1><b>React Redux Boilerplate exercise</b></h1>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 # 📖 Bookstore<a name="about-project"></a>
 
-Bookstore is a project that is part of the Microverse curriculum in React section. It is a simple website.
+RRBP is a project that is part of the Microverse curriculum in React section. It is a simple website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
