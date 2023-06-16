@@ -1,7 +1,16 @@
 import useSelector from 'react-redux';
+import { useDispatch } from 'react-redux';
+import { useEffect } from 'react';
+import { fetchUsers } from '../store/users/usersSlice';
 
 const Users = () => {
 	const { users, isLoading, error } = useSelector((state) => state.users);
+	const dispatch = useDispatch();
+
+	useEffect(() => {
+		dispatch(fetchUsers());
+	}, [dispatch]);
+
 	return (
 		<div>
 			<h1>Users</h1>
