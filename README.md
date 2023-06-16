@@ -2,151 +2,187 @@
 
 <div align="center">
   <br/>
+  <br/>
+  <br/>
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="./public/docs/logo3.svg" alt="logo" width="400"  height="auto" />
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
-  <h3><b>README</b></h3>
+  <h1><b>Bookstore</b></h1>
 
 </div>
 
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-  - [👥 Contributors](#contributors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-- [⚠️Disclaimer](#disclaimer)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Bookstore](#-bookstore)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [Walkthrough ](#walkthrough-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-# 📖 [React-Clean] <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-**[React-Clean]** is a template from which the module 3 activities will be based
+# 📖 Bookstore<a name="about-project"></a>
+
+Bookstore is a project that is part of the Microverse curriculum in React section. It is a simple website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+- React
+- JavaScript
+
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href=""></a></li>
-  </ul>
+  - React<br>
+  - JS
+</details>
+
+<details>
+  <summary>Server</summary>
+    - Null
+</details>
+
+<details>
+<summary>Database</summary>
+    - Null
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[Clean install of react]**
+- **Responsive Design**
 
+<!-- LIVE DEMO -->
+
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
+
+> Comming Soon... -->
+
+<!-- - No live demo available yet -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- No previews available for this template [here]()
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running cloning this repo `git clone https://github.com/JuniorGarciaRodriguez/XXXX.git`.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-There are no known prerequisites to run this project.
-If you encounter any issues trying to run it, please feel free to
-[open a ticket](../../issues/) to let me know and i will work on it to the best
-of my abilities
+- A web browser
+- A code editor
+- A terminal
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
-  cd PATH_TO_CLONE
-  git clone https://github.com/JuniorGarciaRodriguez/XXXX.git
+  git clone https://github.com/SergioPeralta22/MV-Bookstore.git
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  cd MV-Bookstore
+  npm install
 ```
 
 ### Usage
 
-To run the project:
-
-- Method 1:
+To run the project, execute the following command:
 
 ```sh
-  cd PATH_TO_CLONE
-  npm install
-  npm run build
   npm start
 ```
 
-Method 2:
-Open './dist/index.html' in your browser of choice
+### Run tests
+
+To run tests, run the following command:
+
+- Run all tests:
+
+```sh
+  npm run test
+```
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 
 ### Deployment
 
-You can deploy this project using [github pages](https://docs.github.com/en/pages/quickstart)
-or a web-hosting platform of your choice.
-_we used [vercel](https://vercel.com/)_
+Comming Soon...
+
+<!-- > [Bookstore](https://sergioperalta22.github.io/MV-Bookstore/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Junior Garcia**
+👤 Sergio Peralta
 
-- GitHub: [@J.Garcia](https://github.com/JuniorGarciaRodriguez)
-- Twitter: [@J.Garcia](https://twitter.com/JGarciaGez)
-- LinkedIn: [@J.Garcia](https://www.linkedin.com/in/junior-g-078143191/)
-
-## 👥 Colaborators <a name="colaborators"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- GitHub: [@SergioPeralta22](https://github.com/SergioPeralta22)
+- Twitter: [@SePeralta22](https://twitter.com/SePeralta22)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sergioperalta22)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **[ Where your ideas take us!! ]**
+- **More styling 😁**
+- **Add a navbar 👌**
+- **More sections 😎**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Walkthrough <a name="walkthrough"></a>
+
+> Comming Soon...
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Your ideas may trigger the next features of the project
-once my knowledge base can reach the level of your imagination
-
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
+
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project feel free to use it as you please within the scope of
-_[the license](./LICENSE)_ Credit will be appreciated but not mandatory.
+If you like this project, give it a ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [favicon](https://www.pixiv.net/en/artworks/71008974) by [横gon](https://www.pixiv.net/en/users/29647895)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[No questions have been asked]**. Be the first curious mind
+I would like to thank Microverse for giving us the opportunity to learn and grow as a developers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,13 +191,5 @@ _[the license](./LICENSE)_ Credit will be appreciated but not mandatory.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ⚠️Disclaimer <a name="disclaimer"></a>
-
-I only created the website source code
-The media files on this site **DOES NOT** belong to me.
-All credit must be given to the original author/source.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
